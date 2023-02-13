@@ -1,0 +1,1 @@
+mongoimport --db akashdb --collection newcollection --file accounts.json --jsonArray
